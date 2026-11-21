@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (avoid uploading thousands of images)
+data/
+
+# macOS files
+.DS_Store
+
+# Backup files
+app_backup.py
+app_backup_v2.py
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
